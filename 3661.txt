@@ -18,7 +18,7 @@ class Solution {
         return dfs(n - 1, 1);
     }
 
-    private int dfs(int i, int j) {
+    private in dfs(int i, int j) {
         if (i < 0) {
             return 0;
         }
